@@ -35,6 +35,5 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prAhmed20)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prAhmed20)  
 
 ![Profile views](https://gpvc.arturio.dev/prAhmed20)  
