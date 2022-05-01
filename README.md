@@ -2,7 +2,7 @@
 #### Flutter Mobile Developer
 ![Flutter Mobile Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">ٍSkills and Experience:</h3>
 
 -Proficiency in the Dart language.
 
